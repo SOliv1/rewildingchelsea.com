@@ -6,8 +6,9 @@
 
 [![pages-build-deployment](https://github.com/SOliv1/excursion/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SOliv1/excursion/actions/workflows/pages/pages-build-deployment)
 [![CI](https://github.com/SOliv1/rewildingwestminster/actions/workflows/blank.yml/badge.svg)](https://github.com/SOliv1/rewildingwestminster/actions/workflows/blank.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/41f2da02-dbc4-4095-bbe6-845c1493c8a8/deploy-status?branch=master)](https://app.netlify.com/sites/rewilding-chelsea/deploys)
 
-[rewildingchelsea](http://rewildingchelsea.com/)
+
 
 
 -# excursion
@@ -32,6 +33,6 @@ python -m http.server --bind 127.0.0.1 8000
 Chrome and Firefox have actively blocked the <source autoplay loop> https://mux.com/blog/video-autoplay-considered-harmful/
  feature so to make the video work continually use the **<video width="100%" controls autoplay muted> ^^ code instead:
  https://stackoverflow.com/questions/49822790/html5-video-autoplay-not-working# wilding-london
-# wilding-london
-# rewildingwestminster
-# rewildingchelsea.com
+### wilding-london
+### rewildingwestminster
+### rewildingchelsea.com
